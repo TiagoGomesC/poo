@@ -1,7 +1,8 @@
 <?php 
 //aqui estou criando a classe cliente
 class Clientes { 
-    //atributos:
+
+    //Atributos: $nome, $idade, $peso — São as variáveis da classe (as características).
     public string $nome;
     public int $idade;
     public float $peso;

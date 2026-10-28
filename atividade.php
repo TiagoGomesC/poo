@@ -2,7 +2,6 @@
 // Era melhor fazer duas classes separadas do Cliente e do Funcionario ou aplicar o conceito de Herança.
 class Produto
 {
-    //Atributos: $nome, $idade, $peso — São as variáveis da classe (as características).
     public string $nome;
     public float $preco;
 
@@ -23,6 +22,6 @@ class Produto
 $produto1 = new Produto("Teclado Mecânico", 250.00);
 $produto2 = new Produto("Mouse Gamer", 120.50);
 
-// as informações dos produtos
+// informações dos produtos
 $produto1->mostrarProduto();
 $produto2->mostrarProduto();
