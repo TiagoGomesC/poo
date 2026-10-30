@@ -8,13 +8,13 @@
 - **Classe:**  É a "planta" ou o molde que **define** as características e comportamentos de um tipo de objeto
 `**Ex:**` classe Carro
 
-- **Objeto:**  É a instância concreta criada a partir de uma classe 
-`**Ex:**` um carro específico com cor vermelha e placa ABC-1234.
-
 - **Atributos:**  As propriedades ou dados que definem o estado do objeto
 `**Ex:**` cor, modelo, velocidadeAtual.
 
-- Métodos: As ações ou funções que o objeto pode realizar 
+- **Objeto:**  É a instância concreta criada a partir de uma classe 
+`**Ex:**` um carro específico com cor vermelha e placa ABC-1234.
+
+- **Métodos:** As ações ou funções que o objeto pode realizar 
 `**Ex:**` ligar(), acelerar(), frear().
 
 ---
